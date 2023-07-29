@@ -38,7 +38,7 @@ To run the Meal App locally:
 4. Start using the Meal App to explore different recipes.
 
 to run the Meal App online:
-1. go to https:// from your browser.
+1. go to httpshttps://kkbhati07.github.io/Meal-App/ from your browser.
 
 ## Screenshots
 
